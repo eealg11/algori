@@ -1,0 +1,5 @@
+# Google Cloud Run 배포용 패키지 의존성 목록
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.6.0
+
